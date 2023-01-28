@@ -12,4 +12,4 @@ Since kahoot has made it so that a player gets kicked when the player closes the
 
 - # Requirments
 - Selenium
-- Python 3
+- Python 3.9
