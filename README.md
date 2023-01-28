@@ -10,6 +10,6 @@ Since kahoot has made it so that a player gets kicked when the player closes the
 
 ### This means that it will use a large amount of ram memory if you want to flood with a lot of bots.
 
-- # Requirments
+- # requirements
 - Selenium
 - Python 3.9
